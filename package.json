@@ -1,0 +1,24 @@
+{
+  "name": "real-saz2har",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "insomnia-inso": "^2.2.20",
+    "node-forge": "^0.9.1",
+    "saz2har": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.0.5"
+  }
+}
